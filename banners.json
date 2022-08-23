@@ -1,17 +1,17 @@
 [
   {
-    id: "xdex-news",
-    title: "XDEX news with a fairly long title on how to earn big",
-    cta: "Read more",
+    "id": "xdex-news",
+    "title": "XDEX news with a fairly long title on how to earn big",
+    "cta": "Read more"
   },
   {
-    id: "long-title",
-    title: "XDEX news with a fairly long title on how to earn big",
-    cta: "Buy now",
+    "id": "long-title",
+    "title": "XDEX news with a fairly long title on how to earn big",
+    "cta": "Buy now"
   },
   {
-    id: "very-long-title",
-    title: "XDEX news with a fairly long title on how to earn big, very very very very very very very very very very very long title",
-    cta: "Sell now",
+    "id": "very-long-title",
+    "title": "XDEX news with a fairly long title on how to earn big, very very very very very very very very very very very long title",
+    "cta": "Sell now"
   }
 ]
